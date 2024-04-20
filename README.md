@@ -155,3 +155,19 @@ Recall at rank 10: 0.63890
 ```
 Note that this reproduced result is a bit different from the one (``56.65% μAP`` and ``60.86% recall@1``) reported in our paper due to the randomness.
 
+
+## Citation
+
+@inproceedings{
+    wang2024AnyPattern,
+    title={AnyPattern: Towards In-context Image Copy Detection},
+    author={Wang, Wenhao and Sun, Yifan and Tan, ZhenTao and Yang, Yi},
+    booktitle={In submission},
+    year={2024},
+}
+
+## Contact
+
+If you have any questions, feel free to contact Wenhao Wang (wangwenhao0716@gmail.com).
+
+
