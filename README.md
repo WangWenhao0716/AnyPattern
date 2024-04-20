@@ -169,6 +169,6 @@ Note that this reproduced result is a bit different from the one (``56.65% μAP`
 
 ## Contact
 
-If you have any questions, feel free to contact Wenhao Wang (wangwenhao0716@gmail.com).
+If you have any questions, feel free to contact [Wenhao Wang](https://wangwenhao0716.github.io/) (wangwenhao0716@gmail.com).
 
 
