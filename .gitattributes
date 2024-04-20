@@ -1,2 +1,4 @@
 train/anypattern_v31.pkl filter=lfs diff=lfs merge=lfs -text
 train/anypattern_v31_reverse.pkl filter=lfs diff=lfs merge=lfs -text
+Train/anypattern_v31.pkl filter=lfs diff=lfs merge=lfs -text
+Train/anypattern_v31_reverse.pkl filter=lfs diff=lfs merge=lfs -text
