@@ -59,3 +59,8 @@ or just ```bash train.sh```.
 The training can be finished in 14 hours with 8 A100 GPUs.
 
 To promote reproduction, we also provide the [training log](https://github.com/WangWenhao0716/AnyPattern/blob/main/Train/train_log.txt) and our [trained model](https://huggingface.co/datasets/WenhaoWang/AnyPattern/blob/main/vit_ddpmm_8gpu_512_torch2_ap31_pattern_condition_first_dgg.pth.tar).
+
+## Test
+
+With the trained model ```vit_ddpmm_8gpu_512_torch2_ap31_pattern_condition_first_dgg.pth.tar```, we can perform test step by step:
+
