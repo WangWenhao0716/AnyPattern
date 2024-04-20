@@ -153,5 +153,5 @@ Threshold at P90 : -0.140579
 Recall at rank 1:  0.60594
 Recall at rank 10: 0.63890
 ```
-Note that this reproduced result is a bit different from the one (56.65% μAP and 60.86% recall@1) reported in our paper due to the randomness.
+Note that this reproduced result is a bit different from the one (``56.65% μAP`` and ``60.86% recall@1``) reported in our paper due to the randomness.
 
