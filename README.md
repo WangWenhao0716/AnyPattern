@@ -145,5 +145,13 @@ python compute_metrics.py \
 ```
 or just ``bash match.sh``
 
-
+You should get:
+```
+Average Precision: 0.56822
+Recall at P90    : 0.54044
+Threshold at P90 : -0.140579
+Recall at rank 1:  0.60594
+Recall at rank 10: 0.63890
+```
+Note that this reproduced result is a bit different from the one (56.65% μAP and 60.86% recall@1) reported in our paper due to the randomness.
 
