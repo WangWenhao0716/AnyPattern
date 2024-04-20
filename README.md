@@ -161,7 +161,7 @@ Note that this reproduced result is a bit different from the one (``56.65% μAP`
 @inproceedings{
     wang2024AnyPattern,
     title={AnyPattern: Towards In-context Image Copy Detection},
-    author={Wang, Wenhao and Sun, Yifan and Tan, ZhenTao and Yang, Yi},
+    author={Wang, Wenhao and Sun, Yifan and Tan, Zhentao and Yang, Yi},
     booktitle={In submission},
     year={2024},
 }
