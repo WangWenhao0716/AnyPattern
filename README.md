@@ -36,6 +36,21 @@ We release our datasets on [Hugging Face](https://huggingface.co/datasets/Wenhao
      ...
 ```
 
+## Prepare Environment
+You can directly download our curated environment by
+```
+wget https://huggingface.co/datasets/WenhaoWang/PE-ICD/resolve/main/torch21.tar
+```
+then
+```
+tar -xvf torch21.tar
+export PATH="$(pwd)/torch21/bin:$PATH"
+export LD_LIBRARY_PATH="$(pwd)/torch21/lib:$LD_LIBRARY_PATH"
+```
+
+Or, you can prepare an environment by yourself: our method only relies on basic libraries, such as PyTorch.
+
+
 ## Generate 
 
 In the ``Generate`` folder, we provide all the code (~3000 lines) for 100 patterns (90 base + 10 novel) in our AnyPattern dataset. Since it is prohibitively expensive (distributed on 200 CPU nodes for 1 million CPU core hours) to generate by yourselves, we have provided the generated images (i.e. ``anypattern_v31`` you downloaded). 
