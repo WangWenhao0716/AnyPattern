@@ -5,7 +5,7 @@
 
 ## Prepare Datasets
 
-We release our datasets on [Hugging Face](https://huggingface.co/datasets/WenhaoWang/AnyPattern). Please follow the instructions here to download the dataset. After downloading and unzipping, we should have:
+We release our datasets on [Hugging Face](https://huggingface.co/datasets/WenhaoWang/AnyPattern). Please follow the instructions on Hugging Face to download the dataset. After downloading and unzipping, we should have:
 
 ```
 /path/to/
