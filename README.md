@@ -54,7 +54,7 @@ train_single_source_gem_coslr_wb_balance_cos_ema_ddpmm_pattern_condition_torch2.
 --height 224 --width 224 \
 --multiprocessing-distributed --world-size 1
 ```
-or just ```base train.sh```.
+or just ```bash train.sh```.
 
 The training can be finished in 14 hours with 8 A100 GPUs.
 
