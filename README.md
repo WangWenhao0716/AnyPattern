@@ -157,7 +157,7 @@ Note that this reproduced result is a bit different from the one (``56.65% μAP`
 
 
 ## Citation
-
+```
 @inproceedings{
     wang2024AnyPattern,
     title={AnyPattern: Towards In-context Image Copy Detection},
@@ -165,6 +165,7 @@ Note that this reproduced result is a bit different from the one (``56.65% μAP`
     booktitle={In submission},
     year={2024},
 }
+```
 
 ## Contact
 
