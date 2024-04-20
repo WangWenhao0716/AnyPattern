@@ -38,4 +38,4 @@ We release our datasets on [Hugging Face](https://huggingface.co/datasets/Wenhao
 
 ## Generate 
 
-In the ``Generate`` folder, we provide all the code for 100 patterns (90 base + 10 novel) in our AnyPattern dataset. Since it is prohibitively expensive (distributed on 200 CPU nodes for 1 million CPU core hours) to generate by yourselves, we have provided the generated images (i.e. ``anypattern_v31`` you downloaded). 
+In the ``Generate`` folder, we provide all the code (~3000 lines) for 100 patterns (90 base + 10 novel) in our AnyPattern dataset. Since it is prohibitively expensive (distributed on 200 CPU nodes for 1 million CPU core hours) to generate by yourselves, we have provided the generated images (i.e. ``anypattern_v31`` you downloaded). 
