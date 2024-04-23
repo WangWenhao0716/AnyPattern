@@ -1,5 +1,5 @@
 # AnyPattern
-The official implementation of "[AnyPattern: Towards In-context Image Copy Detection]()"
+The official implementation of "[AnyPattern: Towards In-context Image Copy Detection](https://arxiv.org/pdf/2404.13788.pdf)"
 
 ![image](https://github.com/WangWenhao0716/AnyPattern/blob/main/AnyPattern.jpg)
 
@@ -177,7 +177,7 @@ Note that this reproduced result is a bit different from the one (``56.65% μAP`
     wang2024AnyPattern,
     title={AnyPattern: Towards In-context Image Copy Detection},
     author={Wang, Wenhao and Sun, Yifan and Tan, Zhentao and Yang, Yi},
-    booktitle={In submission},
+    booktitle={arXiv preprint arXiv:2404.13788},
     year={2024},
 }
 ```
