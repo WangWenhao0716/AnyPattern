@@ -1,7 +1,8 @@
 # AnyPattern
 The official implementation of "[AnyPattern: Towards In-context Image Copy Detection](https://arxiv.org/pdf/2404.13788.pdf)"
 
-![image](https://github.com/WangWenhao0716/AnyPattern/blob/main/AnyPattern.jpg)
+<img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png" width="800">
+
 
 ## Prepare Datasets
 
