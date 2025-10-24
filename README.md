@@ -174,8 +174,7 @@ Note that this reproduced result is a bit different from the one (``56.65% μAP`
 
 ## Citation
 ```
-@inproceedings{
-    wang2025AnyPattern,
+@article{wang2025AnyPattern,
     title={AnyPattern: Towards In-context Image Copy Detection},
     author={Wang, Wenhao and Sun, Yifan and Tan, Zhentao and Yang, Yi},
     booktitle={International Journal of Computer Vision},
